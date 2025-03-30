@@ -22,7 +22,7 @@ backend API
 
 
 # Changes to do
-in the index.url change the mongodb url
+in the index.js change the mongodb url
 
 
 # command to run the code
