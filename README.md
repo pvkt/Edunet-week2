@@ -17,7 +17,7 @@ backend API
 2. npm install bcryptjs
 3. npm install mongoose
 4. npm install express
-5. npm i bootstrap@5.3.3    -> installing bootstrap
+5. npm i bootstrap@5.3.3
 6. npm install -g nodemon
 
 
