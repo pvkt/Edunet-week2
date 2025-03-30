@@ -14,8 +14,9 @@ backend API
 in the index.url change the mongodb url
 
 
-## command to run the code
-# nodemon .\index.js
+# command to run the code
+nodemon .\index.js    -->  nodemon <filename>
 
+Note:
 we are using the nodemon because whenever there is any changes done in the code & save the code , nodemon will restart the server
 
